@@ -1,9 +1,9 @@
 <!-- Add a wonderful developer GIF -->
-![Wonderful Developer](https://example.com/path-to-your-gif.gif)
-
+[![Wonderful Developer](https://i.gifer.com/39Cg.gif)](https://i.gifer.com/39Cg.gif)
 <!-- Introduction -->
 # Hi there! 👋
 
+<img src="https://i.gifer.com/39Cg.gif" alt="img" />
 I'm UsmanQasim, a passionate developer from Pakistan. Welcome to my GitHub profile! 
 
 - 🔭 I’m currently working on [Current Project(s)].
@@ -29,4 +29,3 @@ I'm comfortable working with a variety of technologies and tools:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&hide=issues&hide_title=true)
 
-<!-- You can also add additional sections as per your preferences -->
