@@ -6,7 +6,7 @@ I'm UsmanQasim, a passionate developer from Pakistan. Welcome to my GitHub profi
 - 🔭 I’m currently working on MavenX.gg.
 - 🌱 I’m currently learning Next.js.
 - 📫 How to reach me: 1998usman@gmail.com.
-- ⚡ Fun fact: i love cats.
+- ⚡ Fun fact: i love🐈‍⬛.
 
 <!-- Technology section -->
 ## Technologies and Tools
