@@ -1,6 +1,6 @@
 [### Hi there 👋
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif?cid=ecf05e47j15ccrobgq1ainair9fwwmyaebckmql42nn6k5wl&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="100"/>
+  <img src="https://i.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.webp" width="100"/>
 </div>
 <!--
 **UsmanQasim/UsmanQasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
