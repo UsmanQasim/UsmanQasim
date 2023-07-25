@@ -1,17 +1,12 @@
-<!-- Add a wonderful developer GIF -->
-[![Wonderful Developer](https://i.gifer.com/39Cg.gif)](https://i.gifer.com/39Cg.gif)
 <!-- Introduction -->
 # Hi there! 👋
 
-<img src="https://i.gifer.com/39Cg.gif" alt="img" />
 I'm UsmanQasim, a passionate developer from Pakistan. Welcome to my GitHub profile! 
 
-- 🔭 I’m currently working on [Current Project(s)].
-- 🌱 I’m currently learning [Technologies or Skills you're learning].
-- 💬 Ask me about [Specific topics you're knowledgeable in].
-- 📫 How to reach me: [Your Email Address or Contact Details].
-- 😄 Pronouns: [Your Pronouns, e.g., He/Him, She/Her, They/Them].
-- ⚡ Fun fact: [A fun or interesting fact about yourself].
+- 🔭 I’m currently working on MavenX.gg.
+- 🌱 I’m currently learning Next.js.
+- 📫 How to reach me: 1998usman@gmail.com.
+- ⚡ Fun fact: i love cats.
 
 <!-- Technology section -->
 ## Technologies and Tools
