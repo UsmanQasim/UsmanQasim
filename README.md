@@ -1,17 +1,27 @@
 <!-- Introduction -->
 # Hi there! 👋
 
-I'm UsmanQasim, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. Welcome to my GitHub profile!
-
+I'm UsmanQasim, a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. Welcome to my GitHub profile!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ### :man_technologist: About Me :
 - 🔭 I’m currently working on MavenX.gg.
 - 🌱 I’m currently learning Next.js.
 - 📫 How to reach me: 1998usman@gmail.com.
 - ⚡ Fun fact: i love🐈‍⬛.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Next](https://img.shields.io/badge/next-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats -->
 ## GitHub Stats
@@ -29,3 +39,9 @@ I'm UsmanQasim, a Full Stack Developer <img src="https://media.giphy.com/media/W
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=UsmanQasim&style=flat-square&color=blue" alt=""/>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
