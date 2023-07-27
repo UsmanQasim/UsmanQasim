@@ -9,11 +9,17 @@ I'm UsmanQasim, a Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-### :man_technologist: About Me :
-- 🔭 I’m currently working on MavenX.gg.
-- 🌱 I’m currently learning Next.js.
-- 📫 How to reach me: 1998usman@gmail.com.
-- ⚡ Fun fact: i love🐈‍⬛.
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: 1998usman@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
+</p>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
