@@ -1,41 +1,13 @@
 <!-- Introduction -->
-# Hi there! 👋
-
-I'm UsmanQasim, a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan. Welcome to my GitHub profile!
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: 1998usman@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/UsmanQasim/UsmanQasim/issues)
-
+<h2 align="center">
+Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p align="center"> 
+  <samp>
+    「 I am a full stack web appplication developer from <b>Pakistan</b> 」
+  </samp>
 </p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Next](https://img.shields.io/badge/next-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- GitHub Stats -->
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&hide=issues&hide_title=true)
-
-<!---Things i will use later --->
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/qasimusman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -43,11 +15,52 @@ I'm UsmanQasim, a Web Developer <img src="https://media.giphy.com/media/WUlplcMp
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+</h2>
 
-<img src="https://komarev.com/ghpvc/?username=UsmanQasim&style=flat-square&color=blue" alt=""/>
+# About me 
+<p>
+ <img align="right" width="250" src="./assets/cat_gif.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: 1998usman@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/UsmanQasim/UsmanQasim/issues)
+</p>
+
+<br/>
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Next](https://img.shields.io/badge/next-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<br>
+
+# GitHub Stats
+<p align="center">
+  <a href="https://github.com/usmanqasim">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/usmanqasim">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanqasim&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/usmanqasim"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/usmanqasim"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmanqasim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<p align="center">
+  <a href="https://github.com/usmanqasim?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=usmanqasim&style=flat-square&color=blue" alt=""/>
+</p>
 
 
-### ✍️ Random Dev Quote
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
