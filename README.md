@@ -30,26 +30,26 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <br/>
 
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Next](https://img.shields.io/badge/next-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/react.js-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-%236DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Next](https://img.shields.io/badge/nextjs-%236DB33F.svg?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/typescript-%230072C6.svg?style=for-the-badge&logo=typescript-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%6940f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 <br>
 
 # GitHub Stats
 <p align="center">
   <a href="https://github.com/usmanqasim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Usman GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/usmanqasim">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanqasim&theme=radical" alt="Al Siam's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanqasim&theme=radical" alt="Usman GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/usmanqasim"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/usmanqasim"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmanqasim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/usmanqasim"><img alt="Usman Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/usmanqasim"><img alt="Usman Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmanqasim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 <p align="center">
