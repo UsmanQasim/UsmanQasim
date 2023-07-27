@@ -15,7 +15,7 @@ I'm UsmanQasim, a Web Developer <img src="https://media.giphy.com/media/WUlplcMp
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: 1998usman@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/UsmanQasim)
+ 💬 &emsp; Ask me about anything [here](https://github.com/UsmanQasim/UsmanQasim/issues)
 
 </p>
 
