@@ -32,7 +32,7 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 # 💻 Tech Stack:
 
-![React](https://img.shields.io/badge/react.js-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Javascript](https://img.shields.io/badge/javascript-%236DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Next](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +49,7 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-%23A62324.svg?style=for-the-badge&logo=axios&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <br>
 
