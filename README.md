@@ -54,11 +54,12 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 # GitHub Stats
 
-<p align="center">
   <a href="https://github.com/usmanqasim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Usman GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Usman GitHub streak" height="192px" width="49.5%"/>
+    <a href="https://github.com/usmanqasim"><img alt="Usman Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   </a>
-</p>
+
+<a href="https://github.com/usmanqasim"><img alt="Usman Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmanqasim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
 
 <p align="center">
   <a href="https://github.com/usmanqasim">
@@ -66,11 +67,8 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/usmanqasim"><img alt="Usman Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/usmanqasim"><img alt="Usman Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmanqasim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<br/>
+
 <p align="center">
   <a href="https://github.com/usmanqasim?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=usmanqasim&style=flat-square&color=blue" alt=""/>
