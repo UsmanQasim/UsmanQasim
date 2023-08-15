@@ -17,7 +17,8 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 </h2>
 
-# About me 
+# About me
+
 <p>
  <img align="right" width="250" src="./assets/cat_gif.gif" alt="Coding gif" />
   
@@ -30,11 +31,29 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 <br/>
 
 # 💻 Tech Stack:
-![React](https://img.shields.io/badge/react.js-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript-%236DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Next](https://img.shields.io/badge/nextjs-%236DB33F.svg?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TYPESCRIPT](https://img.shields.io/badge/typescript-%230072C6.svg?style=for-the-badge&logo=typescript-devops&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%6940f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+![React](https://img.shields.io/badge/react.js-%23ED8B00.svg?style=for-the-badge&logo=react&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%236DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Next](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%230072C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
+![React-Query](https://img.shields.io/badge/React--Query-%236482F5?style=for-the-badge&logo=react-query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-%23A62324.svg?style=for-the-badge&logo=axios&logoColor=white)
 
 <br>
 
 # GitHub Stats
+
 <p align="center">
   <a href="https://github.com/usmanqasim">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Usman GitHub streak"/>
@@ -57,10 +76,9 @@ Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://komarev.com/ghpvc/?username=usmanqasim&style=flat-square&color=blue" alt=""/>
 </p>
 
-
-
 ## ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
