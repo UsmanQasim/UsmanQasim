@@ -1,83 +1,63 @@
-<!-- Introduction -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<h2 align="center">
-Usman Qasim Here <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p align="center"> 
-  <samp>
-    「 I am a full stack web appplication developer from <b>Pakistan</b> 」
-  </samp>
-</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/qasimusman/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:1998usman@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
+
+# Usman Qasim
+### Senior Full-Stack & AI Systems Engineer · Development Head @ Forthlogic AI
+
+**5+ years architecting production SaaS, Agentic AI platforms, 3D WebGL studios, and cross-platform mobile apps.**
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-senior-frontend-developer-portfo.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qasimusman/)
+[![Email](https://img.shields.io/badge/1998usman%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1998usman@gmail.com)
+[![Chatley AI](https://img.shields.io/badge/Chatley_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white)](https://chatley.ai)
+
 </div>
-</h2>
 
-# About me
+---
 
-<p>
- <img align="right" width="250" src="./assets/cat_gif.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: 1998usman@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/UsmanQasim/UsmanQasim/issues)
-</p>
+### ⚡ Executive Summary
 
-<br/>
+- **Engineering Leadership:** Development Head at **Forthlogic AI** (Remote, USA), leading 5+ engineers building real-time AI voice agents, live call streaming, tool-calling pipelines, and LLM safety guardrails.
+- **Full-Stack & Spatial Engineering:** Creator of **[ForthHome](https://github.com/UsmanQasim/house-builder)** (AI-to-CAD constraint solver & Three.js PBR 3D studio), **[Dukaan](https://github.com/UsmanQasim/store-for-all)** (multi-tenant PostGIS commerce & booking SaaS), and **[Ghar](https://github.com/UsmanQasim/ApnaGhar)** (Next.js + Expo + NestJS real estate monorepo).
+- **Proven Impact:** Reduced production bugs by **25%** via automated CI/CD & E2E verification, cut API load by **30%** and data retrieval latency by **70%** via multi-layer caching, and accelerated UI delivery by **35%** with reusable design systems.
 
-# 💻 Tech Stack:
+---
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Javascript](https://img.shields.io/badge/javascript-%236DB33F.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Next](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%230072C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=for-the-badge&logo=dot-net&logoColor=white)
-![React-Query](https://img.shields.io/badge/React--Query-%236482F5?style=for-the-badge&logo=react-query&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Sass](https://img.shields.io/badge/sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-%23A62324.svg?style=for-the-badge&logo=axios&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### 🚀 Flagship Open-Source & Product Repositories
 
-<br>
+| Project | Architecture & Highlights | Stack |
+| :--- | :--- | :--- |
+| **[🏗️ ForthHome (`house-builder`)](https://github.com/UsmanQasim/house-builder)** | **AI 3D Architectural Concept Studio.** Converts natural-language client briefs into machine-validated 2D floor plans (topological reachability, exterior window rules, multi-floor stairwell alignment), interactive walkable PBR 3D models, cost/BOQ schedules, and client presentation packs. | `TypeScript` `Three.js` `WebGL` `OpenAI / Gemini` `Node.js` `GLTF` |
+| **[🏪 Dukaan (`store-for-all`)](https://github.com/UsmanQasim/store-for-all)** | **Hyperlocal Commerce, Seat Booking & QR Pay SaaS.** Multi-tenant neighborhood shop platform with PostGIS spatial discovery, `pg_advisory_xact_lock` concurrency-safe slot booking, state-machine order queues, and Android App Links QR posters. | `Expo SDK 57` `Next.js` `Supabase` `PostGIS` `React Query` `RLS` |
+| **[🏘️ Ghar (`ApnaGhar`)](https://github.com/UsmanQasim/ApnaGhar)** | **Full-Stack Property Marketplace Monorepo.** Buyer/agent mobile app, public SEO listing portal, shareable deep-link cards, and admin console backed by a shared NestJS API. | `Turborepo` `Next.js` `Expo` `NestJS` `Prisma` `PostgreSQL` |
+| **[🌿 MEN-TAL (`MEN-TAL`)](https://github.com/UsmanQasim/MEN-TAL)** | **Zero-Tracking Offline-First Wellbeing Platform.** Privacy-first PWA and Android app featuring daily mood check-ins, guided breathing exercises, personal rough-day safety plans, and on-device journaling. | `React Native` `Expo` `PWA` `Service Workers` `TypeScript` |
+| **[🤖 Chatley AI](https://chatley.ai)** | **Enterprise Agentic AI & Voice Automation Platform.** Live call streaming, SMS orchestration, multi-step LLM tool calling, and real-time analytics. | `Next.js` `Node.js` `Agentic AI` `WebSockets` `AWS EC2` |
 
-# GitHub Stats
+---
 
-  <a href="https://github.com/usmanqasim">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=usmanqasim&theme=radical&border=7F3FBF&background=0D1117" alt="Usman GitHub streak" height="192px" width="49.5%"/>
-    <a href="https://github.com/usmanqasim"><img alt="Usman Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmanqasim&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  </a>
+### 🛠️ Core Technical Stack
 
-<a href="https://github.com/usmanqasim"><img alt="Usman Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmanqasim&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
+- **Frontend & Spatial Web:** Next.js (App Router), React 19, TypeScript, Three.js / WebGL, Tailwind CSS, Shadcn UI, TanStack Query, Redux Toolkit, Zustand, Framer Motion
+- **Mobile Engineering:** React Native, Expo (SDK 54–57), Expo Router, EAS Build, Offline-First / SQLite / SQLCipher, Android App Links
+- **Backend & Distributed Systems:** Node.js, NestJS, Hono, Express, ASP.NET Core, REST, GraphQL, WebSockets / Socket.io, Microservices
+- **AI & LLM Systems:** OpenAI / Gemini / Anthropic SDKs, Structured Outputs & Constraint Loops, Multi-Agent Tool Calling, RAG, Voice Streaming, Guardrails
+- **Databases & Infrastructure:** PostgreSQL (PostGIS, RLS, RPCs, Advisory Locks), Prisma, Supabase, Redis, MongoDB, AWS (EC2, S3, Amplify), Docker, Vercel, GitHub Actions CI/CD, Playwright E2E
 
-<p align="center">
-  <a href="https://github.com/usmanqasim">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmanqasim&theme=radical" alt="Usman GitHub Contribution"/>
-  </a>
-</p>
+---
 
-<br/>
+### 💼 Career Highlights
 
-<p align="center">
-  <a href="https://github.com/usmanqasim?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=usmanqasim&style=flat-square&color=blue" alt=""/>
-</p>
+- **Development Head — Forthlogic AI** *(2025 – Present | Remote, USA)*  
+  Leading a distributed team of 5+ engineers building agentic voice/SMS workflows, LLM tool-calling pipelines, and CI/CD quality gates (-25% production regressions).
+- **Senior Frontend Engineer — A3E Systems** *(2024 – 2025 | Remote)*  
+  Architected 40+ reusable design-system components (-35% feature delivery time) and optimistic React Query caching layers (-30% API traffic).
+- **Frontend Lead & Full-Stack Developer — MTBS Route Trading** *(2021 – 2025 | Remote, UK)*  
+  Led enterprise fintech & healthcare web architectures across Next.js and ASP.NET Core, cutting data retrieval times by 70% and mentoring engineering teams.
 
-## ✍️ Random Dev Quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+📫 **Open to Senior / Staff Full-Stack, Frontend Lead, and AI Systems Engineering roles & high-impact consulting.**  
+Reach out directly at **[1998usman@gmail.com](mailto:1998usman@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/qasimusman/)**.
+
+</div>
