@@ -1,0 +1,275 @@
+{
+  "_about": "Hand-kept facts for the profile cards. Numbers that change on their own (contributions, streaks, repos, stars, last push) are fetched by scripts/fetch.py and never typed here. Edit this file and push: the workflow redraws everything.",
+  "user": "UsmanQasim",
+  "since": "2020-04-18",
+  "name": "Usman",
+  "full_name": "Usman Qasim",
+  "role": "Development Head @ Forthlogic AI",
+  "tagline": "Full-stack & AI systems engineer. I build voice agents, 3D web studios and SaaS that ships.",
+  "focus": [
+    "AI voice agents",
+    "3D / WebGL",
+    "SaaS platforms",
+    "Mobile apps"
+  ],
+  "links": [
+    {
+      "id": "site",
+      "label": "Portfolio",
+      "icon": "globe",
+      "url": "https://v0-senior-frontend-developer-portfo.vercel.app"
+    },
+    {
+      "id": "li",
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/qasimusman/"
+    },
+    {
+      "id": "mail",
+      "label": "Email me",
+      "icon": "mail",
+      "url": "mailto:1998usman@gmail.com"
+    },
+    {
+      "id": "cv",
+      "label": "Resume",
+      "icon": "doc",
+      "url": "assets/Usman_Resume.pdf"
+    }
+  ],
+  "whoami": {
+    "host": "usman@forthlogic",
+    "who": [
+      "usman",
+      "development head",
+      "remote"
+    ],
+    "about": "Full-stack & AI systems engineer, 5+ years shipping production SaaS.",
+    "now": [
+      "Leading the Chatley.ai voice agent platform (team of 5+)",
+      "ArchSim: system design practice in 2D and 3D, live",
+      "QA Machine: point it at a URL, get a full QA report and fixes"
+    ]
+  },
+  "projects": [
+    {
+      "id": "archsim",
+      "name": "ArchSim",
+      "repo": "Archsim",
+      "icon": "nodes",
+      "tint": "cyan",
+      "status": "live",
+      "line": "Build, tune and stress-test cloud architectures in 2D and 3D. Free system design practice.",
+      "chips": [
+        "TypeScript",
+        "3D",
+        "System design"
+      ],
+      "url": "https://github.com/UsmanQasim/Archsim"
+    },
+    {
+      "id": "chatley",
+      "name": "Chatley AI",
+      "repo": null,
+      "icon": "wave",
+      "tint": "violet",
+      "status": "in production",
+      "line": "Agentic AI voice and SMS platform: live call streaming, multi-step tool calling, real-time analytics.",
+      "chips": [
+        "Next.js",
+        "Node.js",
+        "WebSockets"
+      ],
+      "fact": [
+        "I lead the team",
+        "chatley.ai"
+      ],
+      "url": "https://www.chatley.ai/"
+    },
+    {
+      "id": "qa",
+      "name": "QA Machine",
+      "repo": null,
+      "icon": "check",
+      "tint": "lime",
+      "status": "coming soon",
+      "line": "Give it a URL: it drives a real browser, scans 10 QA lenses, and files tickets with annotated screenshots, video and AI fixes.",
+      "chips": [
+        "Playwright",
+        "Node.js",
+        "AI agents"
+      ],
+      "url": null,
+      "fact": [
+        "coming soon"
+      ]
+    },
+    {
+      "id": "fudii",
+      "name": "FUDII",
+      "repo": null,
+      "icon": "food",
+      "tint": "amber",
+      "status": "live",
+      "line": "AI nutrition coach: snap your plate and it estimates calories, protein, carbs and fat. Built for life on a GLP-1.",
+      "chips": [
+        "AI vision",
+        "Mobile",
+        "Health"
+      ],
+      "fact": [
+        "on Google Play",
+        "iOS coming soon",
+        "fudii.ai"
+      ],
+      "url": "https://www.fudii.ai/"
+    },
+    {
+      "id": "forthhome",
+      "name": "ForthHome",
+      "repo": "house-builder",
+      "icon": "house",
+      "tint": "blue",
+      "status": "open source",
+      "line": "Plain-English client briefs in; validated floor plans, walkable PBR 3D homes and cost schedules out.",
+      "chips": [
+        "Three.js",
+        "WebGL",
+        "LLMs"
+      ],
+      "url": "https://github.com/UsmanQasim/house-builder"
+    },
+    {
+      "id": "dukaan",
+      "name": "Dukaan",
+      "repo": "store-for-all",
+      "icon": "store",
+      "tint": "lime",
+      "status": "live",
+      "line": "Hyperlocal shops, seat booking and QR pay, with PostGIS discovery and race-safe slot locks.",
+      "chips": [
+        "Expo",
+        "Next.js",
+        "PostGIS"
+      ],
+      "url": "https://github.com/UsmanQasim/store-for-all"
+    },
+    {
+      "id": "ghar",
+      "name": "Ghar",
+      "repo": "ApnaGhar",
+      "icon": "pin",
+      "tint": "coral",
+      "status": "live",
+      "line": "Property marketplace monorepo: buyer and agent app, SEO portal and admin on one NestJS API.",
+      "chips": [
+        "Turborepo",
+        "NestJS",
+        "Prisma"
+      ],
+      "url": "https://github.com/UsmanQasim/ApnaGhar"
+    },
+    {
+      "id": "mental",
+      "name": "MEN-TAL",
+      "repo": "MEN-TAL",
+      "icon": "leaf",
+      "tint": "violet",
+      "status": "open source",
+      "line": "Zero-tracking, offline-first wellbeing app: mood check-ins, guided breathing, private journaling.",
+      "chips": [
+        "React Native",
+        "PWA",
+        "Offline-first"
+      ],
+      "url": "https://github.com/UsmanQasim/MEN-TAL"
+    }
+  ],
+  "stack": [
+    {
+      "group": "Frontend",
+      "tint": "violet",
+      "items": [
+        "Next.js",
+        "React 19",
+        "TypeScript",
+        "Three.js",
+        "Tailwind",
+        "Zustand",
+        "Framer Motion"
+      ]
+    },
+    {
+      "group": "Mobile",
+      "tint": "lime",
+      "items": [
+        "React Native",
+        "Expo",
+        "Expo Router",
+        "EAS",
+        "SQLite"
+      ]
+    },
+    {
+      "group": "Backend",
+      "tint": "cyan",
+      "items": [
+        "Node.js",
+        "NestJS",
+        "Express",
+        "ASP.NET Core",
+        "GraphQL",
+        "WebSockets"
+      ]
+    },
+    {
+      "group": "AI",
+      "tint": "coral",
+      "items": [
+        "OpenAI",
+        "Gemini",
+        "Anthropic",
+        "RAG",
+        "Tool calling",
+        "Voice streaming"
+      ]
+    },
+    {
+      "group": "Data & infra",
+      "tint": "amber",
+      "items": [
+        "PostgreSQL",
+        "PostGIS",
+        "Redis",
+        "MongoDB",
+        "AWS",
+        "Docker",
+        "Vercel"
+      ]
+    }
+  ],
+  "career": [
+    {
+      "role": "Development Head",
+      "org": "Forthlogic AI",
+      "when": "2025 - now",
+      "where": "Remote, USA",
+      "win": "Leads 5+ engineers on agentic voice/SMS. CI/CD quality gates cut production regressions 25%."
+    },
+    {
+      "role": "Senior Frontend Engineer",
+      "org": "A3E Systems",
+      "when": "2024 - 2025",
+      "where": "Remote",
+      "win": "40+ design-system components (-35% delivery time); React Query caching (-30% API traffic)."
+    },
+    {
+      "role": "Frontend Lead & Full-Stack",
+      "org": "MTBS Route Trading",
+      "when": "2021 - 2025",
+      "where": "Remote, UK",
+      "win": "Fintech and healthcare apps on Next.js + ASP.NET Core; data retrieval 70% faster."
+    }
+  ]
+}

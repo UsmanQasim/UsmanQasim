@@ -1,0 +1,46 @@
+name: refresh profile cards
+
+# Redraws every card from public GitHub data and commits the result when anything changed.
+# Needs no secrets: the built-in GITHUB_TOKEN only lifts the REST API rate limit.
+on:
+  schedule:
+    - cron: "23 1 * * *"     # daily, 06:23 in Pakistan; off the hour because GitHub delays top-of-hour runs
+  workflow_dispatch:          # "Run workflow" button in the Actions tab
+  push:
+    paths:
+      - "scripts/**"
+      - "profile.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - run: pip install -r scripts/requirements.txt
+      # A failed source keeps its saved copy, so the other cards still update; the last step then marks the run red.
+      - id: build
+        run: python scripts/build.py
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md scripts/state.json
+          if git diff --cached --quiet; then echo "nothing changed"; else git commit -m "chore: refresh profile cards" && git push; fi
+      - name: Fail if a source could not be read
+        if: steps.build.outcome == 'failure'
+        run: exit 1
