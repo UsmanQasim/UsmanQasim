@@ -117,7 +117,7 @@ def hero(t, P, S, phone=False):
     d.text(tx + hw, ty, P["name"], "D8", size, t["on_hl"])
 
     if not phone:
-        tag_w = 430
+        tag_w = 500
         lines = wrap(P["tagline"], "D6", 19, tag_w)
         y = ty + 36
         for ln in lines:
@@ -508,13 +508,15 @@ def career(t, P, S, phone=False):
     for k, job in enumerate(P["career"]):
         dots.append(y - 7)
         d.text(tx, y, job["role"], "D8", 22 if not phone else 23, t["text"])
+        meta = "  ·  ".join(v for v in (job["when"], job["where"]) if v)
         if not phone:
-            d.text(pad + cw - 24, y - 2, f"{job['when']}  ·  {job['where']}", "M4", 13.5, t["muted"], "end")
+            if meta:
+                d.text(pad + cw - 24, y - 2, meta, "M4", 13.5, t["muted"], "end")
             y += 26
             d.text(tx, y, job["org"], "M7", 14, t["pop"])
         else:
             y += 28
-            d.text(tx, y, f"{job['org']} · {job['when']}", "M7", 15, t["pop"])
+            d.text(tx, y, fit(" · ".join(v for v in (job["org"], job["when"]) if v), "M7", 15, cw - (tx - pad) - 24), "M7", 15, t["pop"])
         y += 28
         for ln in wrap(job["win"], "D6", fs, cw - (tx - pad) - 30):
             d.text(tx, y, ln, "D6", fs, t["muted"])
@@ -522,7 +524,10 @@ def career(t, P, S, phone=False):
         y += 26
     d.add(f'<path d="M{x} {dots[0]}V{dots[-1]}" stroke="{t["line"]}" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>')
     for k, dy in enumerate(dots):
-        d.add(f'<circle cx="{x}" cy="{dy}" r="9" fill="{t["hl"] if k == 0 else t["violet"]}" stroke="{t["line"]}" stroke-width="2.5"/>')
+        if P["career"][k].get("edu"):  # education gets a square marker
+            d.add(f'<rect x="{x - 9}" y="{dy - 9}" width="18" height="18" rx="4" fill="{t["amber"]}" stroke="{t["line"]}" stroke-width="2.5"/>')
+        else:
+            d.add(f'<circle cx="{x}" cy="{dy}" r="9" fill="{t["hl"] if k == 0 else t["violet"]}" stroke="{t["line"]}" stroke-width="2.5"/>')
     ch = y - pad - 8
     d.parts[at:at] = [f'<rect x="{pad + 5}" y="{pad + 5}" width="{cw}" height="{ch}" rx="14" fill="{t["line"]}"/>',
                       f'<rect x="{pad}" y="{pad}" width="{cw}" height="{ch}" rx="14" fill="{t["card"]}" stroke="{t["line"]}" stroke-width="2.5"/>']
@@ -582,3 +587,68 @@ def project(t, p, S, today, phone=False):
     facts = project_facts(p, S, today)
     d.text(x + 20, y + ch - 20, fit("  ·  ".join(facts), "M4", 13 if not phone else 15, cw - 40), "M4", 13 if not phone else 15, t["muted"])
     return d.render()
+
+
+# ------------------------------------------------------------------ impact numbers
+def impact(t, P, S, phone=False):
+    W = PHONE if phone else DESK
+    d = Doc(W, 0, t, "")
+    pad = 26
+    items = P["impact"]
+    cols = 2 if phone else 4
+    gap = 18
+    tw = (W - 2 * pad - (cols - 1) * gap - 6) / cols
+    th = 150 if not phone else 160
+    for n, it in enumerate(items):
+        x = pad + (n % cols) * (tw + gap)
+        y = pad + (n // cols) * (th + gap)
+        sticker(d, x, y, tw, th, t[it["tint"]])
+        bs = 48 if not phone else 50
+        d.text(x + 18, y + 64, it["big"], "D8", bs, t["text"])
+        ls = 16 if not phone else 18
+        for k, ln in enumerate(wrap(it["label"], "D6", ls, tw - 36, 2)):
+            d.text(x + 18, y + 92 + k * ls * 1.25, ln, "D6", ls, t["text"])
+        d.text(x + 18, y + th - 16, fit(it["where"], "M4", 12.5 if not phone else 14, tw - 36), "M4", 12.5 if not phone else 14, t["muted"] if t["name"] == "light" else t["text"])
+    rows = (len(items) - 1) // cols + 1
+    return finish(d, pad + rows * th + (rows - 1) * gap + 30)
+
+
+# ------------------------------------------------------------------ client work
+def clients(t, P, S, phone=False):
+    W = PHONE if phone else DESK
+    d = Doc(W, 0, t, "")
+    pad = 26
+    cw = W - 2 * pad - 6
+    at = len(d.parts)
+    y = pad + 22
+    for k, c in enumerate(P["clients"]):
+        if k:
+            d.add(f'<path d="M{pad + 20} {y - 14}H{pad + cw - 20}" stroke="{t["grid"]}" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>')
+        x = pad + 22
+        if not phone:
+            sticker(d, x, y + 2, 14, 14, t[c["tint"]], r=4, sh=2, sw=2)
+            d.text(x + 28, y + 16, c["name"], "D8", 21, t["text"])
+            nx = x + 28 + measure(c["name"], "D8", 21) + 12
+            chip(d, nx, y - 1, c["kind"], t[c["tint"]], size=11.5, h=22)
+            d.text(pad + cw - 22, y + 15, c["when"], "M4", 13.5, t["muted"], "end")
+            y += 42
+            d.text(x + 28, y, c["line"], "D6", 16, t["text"])
+            y += 25
+            d.text(x + 28, y, c["tech"], "M4", 13, t["muted"])
+            y += 44
+        else:
+            sticker(d, x, y + 4, 14, 14, t[c["tint"]], r=4, sh=2, sw=2)
+            d.text(x + 26, y + 19, c["name"], "D8", 23, t["text"])
+            d.text(pad + cw - 22, y + 18, c["when"], "M4", 14.5, t["muted"], "end")
+            y += 34
+            chip(d, x + 26, y, c["kind"], t[c["tint"]], size=13, h=26)
+            y += 50
+            for ln in wrap(c["line"], "D6", 18, cw - 70):
+                d.text(x + 26, y, ln, "D6", 18, t["text"])
+                y += 25
+            d.text(x + 26, y + 2, fit(c["tech"], "M4", 14.5, cw - 70), "M4", 14.5, t["muted"])
+            y += 50
+    ch = y - pad - 18
+    d.parts[at:at] = [f'<rect x="{pad + 5}" y="{pad + 5}" width="{cw}" height="{ch}" rx="14" fill="{t["line"]}"/>',
+                      f'<rect x="{pad}" y="{pad}" width="{cw}" height="{ch}" rx="14" fill="{t["card"]}" stroke="{t["line"]}" stroke-width="2.5"/>']
+    return finish(d, pad + ch + 30)

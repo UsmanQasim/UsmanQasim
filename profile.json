@@ -4,13 +4,13 @@
   "since": "2020-04-18",
   "name": "Usman",
   "full_name": "Usman Qasim",
-  "role": "Development Head @ Forthlogic AI",
-  "tagline": "Full-stack & AI systems engineer. I build voice agents, 3D web studios and SaaS that ships.",
+  "role": "Head of Development @ Forthlogic AI",
+  "tagline": "Senior full-stack & AI engineer. I lead the team behind Chatley AI, a white-label voice agent platform.",
   "focus": [
-    "AI voice agents",
-    "3D / WebGL",
+    "Voice AI",
+    "Agentic AI & MCP",
     "SaaS platforms",
-    "Mobile apps"
+    "Frontend architecture"
   ],
   "links": [
     {
@@ -42,17 +42,36 @@
     "host": "usman@forthlogic",
     "who": [
       "usman",
-      "development head",
-      "remote"
+      "head of development",
+      "wah cantt, pakistan"
     ],
-    "about": "Full-stack & AI systems engineer, 5+ years shipping production SaaS.",
+    "about": "5+ years building SaaS, fintech, AI and streaming platforms with Next.js, TypeScript, Node.js and .NET Core.",
     "now": [
-      "Leading the Chatley.ai voice agent platform (team of 5+)",
-      "ArchSim: system design practice in 2D and 3D, live",
-      "QA Machine: point it at a URL, get a full QA report and fixes"
+      "Leading Chatley AI: live call streaming, SMS and tool-calling agents",
+      "Shipped Ikora + the Chatley MCP server (Claude, ChatGPT, Cursor)",
+      "QA Machine: point it at a URL, get a full QA report (coming soon)"
     ]
   },
   "projects": [
+    {
+      "id": "chatley",
+      "name": "Chatley AI",
+      "repo": null,
+      "icon": "wave",
+      "tint": "violet",
+      "status": "in production",
+      "line": "White-label AI voice agents: live calls, booking, outbound campaigns. I built Ikora and the Chatley MCP server.",
+      "chips": [
+        "Next.js",
+        "MCP",
+        "Voice AI"
+      ],
+      "fact": [
+        "I lead the team",
+        "chatley.ai"
+      ],
+      "url": "https://www.chatley.ai/"
+    },
     {
       "id": "archsim",
       "name": "ArchSim",
@@ -67,25 +86,6 @@
         "System design"
       ],
       "url": "https://github.com/UsmanQasim/Archsim"
-    },
-    {
-      "id": "chatley",
-      "name": "Chatley AI",
-      "repo": null,
-      "icon": "wave",
-      "tint": "violet",
-      "status": "in production",
-      "line": "Agentic AI voice and SMS platform: live call streaming, multi-step tool calling, real-time analytics.",
-      "chips": [
-        "Next.js",
-        "Node.js",
-        "WebSockets"
-      ],
-      "fact": [
-        "I lead the team",
-        "chatley.ai"
-      ],
-      "url": "https://www.chatley.ai/"
     },
     {
       "id": "qa",
@@ -192,23 +192,14 @@
       "tint": "violet",
       "items": [
         "Next.js",
-        "React 19",
+        "React",
         "TypeScript",
-        "Three.js",
+        "Electron",
         "Tailwind",
+        "shadcn",
         "Zustand",
+        "React Query",
         "Framer Motion"
-      ]
-    },
-    {
-      "group": "Mobile",
-      "tint": "lime",
-      "items": [
-        "React Native",
-        "Expo",
-        "Expo Router",
-        "EAS",
-        "SQLite"
       ]
     },
     {
@@ -218,58 +209,154 @@
         "Node.js",
         "NestJS",
         "Express",
-        "ASP.NET Core",
+        "Hono",
+        "Socket.io",
         "GraphQL",
-        "WebSockets"
+        ".NET Core / C#",
+        "Stripe",
+        "Twilio"
       ]
     },
     {
       "group": "AI",
       "tint": "coral",
       "items": [
+        "Claude SDK",
         "OpenAI",
-        "Gemini",
-        "Anthropic",
-        "RAG",
+        "MCP servers",
         "Tool calling",
-        "Voice streaming"
+        "RAG",
+        "Guardrails",
+        "Voice AI",
+        "n8n"
       ]
     },
     {
-      "group": "Data & infra",
+      "group": "Data & cloud",
       "tint": "amber",
       "items": [
         "PostgreSQL",
-        "PostGIS",
-        "Redis",
         "MongoDB",
-        "AWS",
+        "Redis",
+        "SQL Server",
+        "Firebase",
         "Docker",
-        "Vercel"
+        "AWS",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "group": "Mobile",
+      "tint": "lime",
+      "items": [
+        "React Native",
+        "Expo",
+        "PWA"
+      ]
+    },
+    {
+      "group": "Quality",
+      "tint": "blue",
+      "items": [
+        "Playwright",
+        "Jest",
+        "Testing Library",
+        "SonarQube",
+        "Postman"
       ]
     }
   ],
   "career": [
     {
-      "role": "Development Head",
+      "role": "Head of Development",
       "org": "Forthlogic AI",
-      "when": "2025 - now",
+      "when": "Jul 2025 - now",
       "where": "Remote, USA",
-      "win": "Leads 5+ engineers on agentic voice/SMS. CI/CD quality gates cut production regressions 25%."
+      "win": "Lead the team behind Chatley AI. Built Ikora, the Chatley MCP server and live call streaming; CI/CD and code review cut production bugs 25%."
     },
     {
-      "role": "Senior Frontend Engineer",
+      "role": "Frontend Developer, React/Next.js",
       "org": "A3E Systems",
-      "when": "2024 - 2025",
-      "where": "Remote",
-      "win": "40+ design-system components (-35% delivery time); React Query caching (-30% API traffic)."
+      "when": "Aug 2024 - Feb 2025",
+      "where": "Remote, contract",
+      "win": "40+ reusable components (-35% frontend dev time), React Query caching and optimistic updates, API handling latency down 30%."
     },
     {
-      "role": "Frontend Lead & Full-Stack",
+      "role": "Frontend Lead, Full Stack",
       "org": "MTBS Route Trading",
-      "when": "2021 - 2025",
+      "when": "Jan 2021 - Jul 2025",
       "where": "Remote, UK",
-      "win": "Fintech and healthcare apps on Next.js + ASP.NET Core; data retrieval 70% faster."
+      "win": "Led Next.js + ASP.NET architecture for enterprise apps; caching cut data retrieval times 70%; mentored junior developers."
+    },
+    {
+      "role": "BS Computer Science",
+      "org": "PMAS University, Rawalpindi",
+      "when": "",
+      "where": "",
+      "edu": true,
+      "win": "Team project leader, tech seminar participant and teaching assistant for core courses."
+    }
+  ],
+  "title": "Senior Full Stack & AI Engineer",
+  "email": "UQasim.dev@outlook.com",
+  "impact": [
+    {
+      "big": "-25%",
+      "label": "production bugs",
+      "where": "Forthlogic AI",
+      "tint": "lime"
+    },
+    {
+      "big": "-70%",
+      "label": "data retrieval time",
+      "where": "MTBS Route Trading",
+      "tint": "violet"
+    },
+    {
+      "big": "-35%",
+      "label": "frontend dev time",
+      "where": "A3E Systems",
+      "tint": "cyan"
+    },
+    {
+      "big": "-30%",
+      "label": "API handling latency",
+      "where": "A3E Systems",
+      "tint": "amber"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Chatley AI",
+      "kind": "AI voice agents",
+      "when": "2025 - now",
+      "tint": "violet",
+      "line": "Live calls, appointment booking and outbound campaigns; Ikora assistant and MCP server.",
+      "tech": "Next.js · Express · MongoDB · AWS"
+    },
+    {
+      "name": "MavenX",
+      "kind": "Game streaming, KSA",
+      "when": "2023 - 2024",
+      "tint": "cyan",
+      "line": "Streaming dashboard with real-time analytics, microservice integrations and engagement tracking.",
+      "tech": "Next.js · Recharts · Azure DevOps"
+    },
+    {
+      "name": "Money Router",
+      "kind": "Fintech",
+      "when": "2022 - 2023",
+      "tint": "lime",
+      "line": "Migrated a legacy frontend to Next.js for faster, more maintainable transaction workflows.",
+      "tech": "Next.js · React Query · Node.js"
+    },
+    {
+      "name": "General Practitioner",
+      "kind": "Healthcare",
+      "when": "2021 - 2023",
+      "tint": "coral",
+      "line": "Form-driven responsive UI, role-based routing and secure API integration.",
+      "tech": "React · Material UI · Redux · .NET Core"
     }
   ]
 }
