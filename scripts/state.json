@@ -1,6 +1,6 @@
 {
  "contrib": {
-  "all_time": 555,
+  "all_time": 557,
   "current_streak": 2,
   "days": {
    "2020-04-18": 1,
@@ -142,9 +142,9 @@
    "2026-11-18": 4,
    "2026-11-21": 4,
    "2026-11-26": 10,
-   "2026-11-27": 3
+   "2026-11-27": 5
   },
-  "last_year": 463,
+  "last_year": 465,
   "longest_streak": 12,
   "window": {
    "2025-11-23": 2,
@@ -516,7 +516,7 @@
    "2026-11-24": 0,
    "2026-11-25": 0,
    "2026-11-26": 10,
-   "2026-11-27": 3
+   "2026-11-27": 5
   },
   "year_totals": {
    "2020": 1,
@@ -525,7 +525,7 @@
    "2023": 27,
    "2024": 9,
    "2025": 67,
-   "2026": 431
+   "2026": 433
   }
  },
  "contrib_read": "2026-11-27",
@@ -602,14 +602,6 @@
    "pushed": "2024-02-21",
    "stars": 0
   },
-  "house-builder": {
-   "description": "ForthHome - AI 3D Architectural Studio: Natural language briefs to constraint-validated 2D floor plans, walkable Three.js PBR 3D models, and client presentation packs.",
-   "forks": 0,
-   "homepage": "",
-   "language": "TypeScript",
-   "pushed": "2026-10-25",
-   "stars": 0
-  },
   "pokimon_express": {
    "description": "",
    "forks": 0,
@@ -654,7 +646,7 @@
  "user": {
   "created": "2020-04-18",
   "followers": 7,
-  "public_repos": 17
+  "public_repos": 16
  },
  "years_cache": {
   "2020": {
@@ -827,9 +819,9 @@
     "2026-11-18": 4,
     "2026-11-21": 4,
     "2026-11-26": 10,
-    "2026-11-27": 3
+    "2026-11-27": 5
    },
-   "total": 431
+   "total": 433
   }
  }
 }
