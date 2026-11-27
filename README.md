@@ -4,13 +4,13 @@
 <p align="center">
 <a href="https://v0-senior-frontend-developer-portfo.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-site-dark.svg"><img src="assets/badge-site-light.svg" height="46" alt="Portfolio"></picture></a>
 <a href="https://www.linkedin.com/in/qasimusman/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-li-dark.svg"><img src="assets/badge-li-light.svg" height="46" alt="LinkedIn"></picture></a>
-<a href="mailto:1998usman@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-mail-dark.svg"><img src="assets/badge-mail-light.svg" height="46" alt="Email me"></picture></a>
+<a href="mailto:UQasim.dev@outlook.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-mail-dark.svg"><img src="assets/badge-mail-light.svg" height="46" alt="Email me"></picture></a>
 <a href="assets/Usman_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-cv-dark.svg"><img src="assets/badge-cv-light.svg" height="46" alt="Resume"></picture></a>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 461 contributions in the last year, current streak 2 days, longest streak 12 days, 553 contributions since 2020. Year by year: 1 in 2020, 20 in 2021, 0 in 2022, 27 in 2023, 9 in 2024, 67 in 2025, 429 in 2026."></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 463 contributions in the last year, current streak 2 days, longest streak 12 days, 555 contributions since 2020. Year by year: 1 in 2020, 20 in 2021, 0 in 2022, 27 in 2023, 9 in 2024, 67 in 2025, 431 in 2026."></picture>
 
-<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/heatmap-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/heatmap-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" width="100%" alt="Contribution heatmap: 461 contributions in the last year"></picture>
+<picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/heatmap-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/heatmap-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" width="100%" alt="Contribution heatmap: 463 contributions in the last year"></picture>
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/weekly-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/weekly-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/weekly-dark.svg"><img src="assets/weekly-light.svg" width="100%" alt="Contributions per week over the last 16 weeks"></picture>
 
